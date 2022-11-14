@@ -34,10 +34,10 @@ The result shown in [constructFBN.ipynb](./constructFBN.ipynb)
 
 ## Citing SCAAE
 ```
-@misc{2205.09576,
-Author = {Yiheng Liu and Enjie Ge and Mengshen He and Zhengliang Liu and Shijie Zhao and Xintao Hu and Dajiang Zhu and Tianming Liu and Bao Ge},
-Title = {Discovering Dynamic Functional Brain Networks via Spatial and Channel-wise Attention},
-Year = {2022},
-Eprint = {arXiv:2205.09576},
+@article{liu2022discovering,
+  title={Discovering Dynamic Functional Brain Networks via Spatial and Channel-wise Attention},
+  author={Liu, Yiheng and Ge, Enjie and He, Mengshen and Liu, Zhengliang and Zhao, Shijie and Hu, Xintao and Zhu, Dajiang and Liu, Tianming and Ge, Bao},
+  journal={arXiv preprint arXiv:2205.09576},
+  year={2022}
 }
 ```
