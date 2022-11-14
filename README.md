@@ -1,6 +1,6 @@
 # SCAAE
  Submitted to 36th Conference on Neural Information Processing Systems (NeurIPS 2022)
- - Discovering Dynamic Functional Brain Networks via Spatial and Channel-wise Attention [arxiv:2205.09576](https://arxiv.org/abs/2205.09576) (The work is now **reject** by NeurIPS and do not intend to resubmit to other conferencese. Extended work will be submitted to Neuroimage for publication.)
+ - Discovering Dynamic Functional Brain Networks via Spatial and Channel-wise Attention [arxiv:2205.09576](https://arxiv.org/abs/2205.09576) (The work is now **reject** by NeurIPS and do not intend to resubmit to other conferences. Extended work will be submitted to Neuroimage for publication.)
 
 ## Download Training Data
 A simple way to download part of ADHD-200 datasets is to use nilearn. These data can be used as training data.
