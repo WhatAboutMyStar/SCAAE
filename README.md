@@ -31,7 +31,11 @@ tensorboard --logdir=./logdir/
 ```
 
 ## Result
-The result shown in [constructFBN.ipynb](./constructFBN.ipynb)
+The result in ADHD-200 dataset shown in [constructFBN.ipynb](./constructFBN.ipynb)
+
+The result in task-based fMRI dataset shown in [task-gambling-avg-group-wise-40.ipynb](./task-gambling-avg-group-wise-40.ipynb). 
+
+We use the [Baseline](https://github.com/SNNUBIAI/Baseline) developed by our [SNNUBIAI Lab](https://github.com/SNNUBIAI/) for evaluation. 
 
 ## Citing SCAAE
 ```
