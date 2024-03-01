@@ -1,6 +1,6 @@
 # SCAAE
 - Discovering Dynamic Functional Brain Networks via Spatial and Channel-wise Attention [arxiv:2205.09576](https://arxiv.org/abs/2205.09576) 
-
+- Mapping dynamic spatial patterns of brain function with spatial-wise attention [paper link](https://iopscience.iop.org/article/10.1088/1741-2552/ad2cea)
 ## Download Training Data
 A simple way to download part of ADHD-200 datasets is to use nilearn. These data can be used as training data.
 ```
@@ -43,6 +43,13 @@ We use the [Baseline](https://github.com/SNNUBIAI/Baseline) developed by our [SN
   author={Liu, Yiheng and Ge, Enjie and He, Mengshen and Liu, Zhengliang and Zhao, Shijie and Hu, Xintao and Zhu, Dajiang and Liu, Tianming and Ge, Bao},
   journal={arXiv preprint arXiv:2205.09576},
   year={2022}
+}
+
+@article{liu2024mapping,
+  title={Mapping dynamic spatial patterns of brain function with spatial-wise attention},
+  author={Liu, Yiheng and Ge, Enjie and He, Mengshen and Liu, Zhengliang and Zhao, Shijie and Hu, Xintao and Qiang, Ning and Zhu, Dajiang and Liu, Tianming and Ge, Bao},
+  journal={Journal of Neural Engineering},
+  year={2024}
 }
 ```
 
